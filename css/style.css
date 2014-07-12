@@ -1,0 +1,35 @@
+td {
+	width:100px;
+	height:100px;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 30px
+}
+
+.reset {
+	position: relative;
+	border-radius: 10px;
+	border: 1px solid black;
+	top:10px;
+	left:19%;
+	height:25px;
+	width:60px;
+	font-size: 20px;
+	background-color: gray;
+	display: inline-block;
+	text-align: center;
+	cursor: hand; 
+	cursor: pointer;
+}
+
+#game_name {
+	font-size: 35px;
+	position:relative;
+	left:15%;
+}
+
+#game_board {
+	position: relative;;
+	left:10%;
+}
+
